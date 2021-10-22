@@ -1,0 +1,11 @@
+form {
+  font-size: 20px;
+}
+
+input {
+  width: 250px;
+}
+
+.highlight {
+  background-color: aqua;
+}
